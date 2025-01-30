@@ -1,12 +1,14 @@
-## Hiii 👋
+**README** — _это первый файл, который нужно читать, получив доступ к проекту на Github или любой Git-хостинговой площадке._ Этот файл в первую очередь и предлагается вниманию пользователя, когда он открывает здесь репозиторий того или иного проекта. Такой файл содержит кучу полезной информации, так что его вполне можно рассматривать как справочное руководство по проекту.
+- 1. Hi
+- 2. You happy?
+- 3. I'm fun
+- Hi
+- You happy?
+- I'm fun
+- [x] Buy kiwi
+- [ ] Back home
+- [ ] Buy milk
 
-<!--
+ `#ADFF2F`
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  @octocat :+1: This PR looks great - it's ready to merge!:shipit: 
